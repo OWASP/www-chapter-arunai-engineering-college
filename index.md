@@ -44,6 +44,21 @@ If you like to speak on our upcoming events, Kindly mail us
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
+**Email Format :**
+
+- Speaker name
+- Job Role
+- Company / Organization
+- Country.
+- Email ID
+- Contact Number
+- Speaker Profile
+- Presentation Details
+    - Name / Title of the Presentation
+    - Abstract of the presentation
+    - Presentation time required
+    
+    
 {% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
