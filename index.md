@@ -40,7 +40,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 ## Speakers
 If you like to speak on our upcoming events, Kindly mail us
 
-* [OWASP Arunai Engineering College](mailto:)
+* [OWASP Arunai Engineering College](mailto:suresh.rajendran@owasp.org)
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
