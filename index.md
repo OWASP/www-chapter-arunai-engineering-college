@@ -62,7 +62,7 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
     - Presentation time required
     
     
-<!-- {% include chapter_events.html group=page.meetup-group %} -->
+{% include chapter_events.html group=page.meetup-group %}
 
 <!-- You should delete this comment
 
