@@ -7,7 +7,7 @@ region: Asia
 meetup-group: OWASP Arunai Engineering College Chapter
 
 ---
-<img src="/assets/images/owasparunai.png">
+<img src="/assets/images/owasparunai.png"/>
 <!--
 <div style='color:red;'>
 
