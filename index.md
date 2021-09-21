@@ -7,7 +7,7 @@ region: Asia
 meetup-group: OWASP Arunai Engineering College Chapter
 
 ---
-
+<!--
 <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
@@ -24,7 +24,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
 
-</div>
+</div> -->
 
 ## Welcome
 <b>OWASP Arunai Engineering  College </b> was founded in September,2021. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security. Join our mission to make Cyber Space a Better Place!
