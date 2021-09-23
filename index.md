@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Arunai Engineering College - Student Chapter
-tags: arunai engineering college
+tags:arunai
 region: Asia
 meetup-group: OWASP Arunai Engineering College Chapter
 
@@ -11,7 +11,7 @@ meetup-group: OWASP Arunai Engineering College Chapter
 
 <img src="assets/images/owasparunai.png"/>
 ##Welcome
-<b>OWASP Arunai Engineering  College </b> was founded in September,2021. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security. Join our mission to make Cyber Space a Better Place!
+Welcome to <b>OWASP Arunai Engineering  College </b> was founded in September,2021. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security. Join our mission to make Cyber Space a Better Place!
 
 
 ## Participation
