@@ -36,4 +36,6 @@ If you like to speak on our upcoming events, Kindly mail us
 {% include chapter_events.html group=page.meetup-group %}
 
 
+## Contact Us:
 
+ [![ContactUs](https://img.shields.io/badge/%F0%9F%93%83-ContactUs-orange)](mailto:suresh.rajendran@owasp.org)
