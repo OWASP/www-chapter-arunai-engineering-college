@@ -30,7 +30,7 @@ If you like to speak on our upcoming events, Kindly mail us
 
 * [OWASP Arunai Engineering College](mailto:suresh.rajendran@owasp.org)
 
-
+---
 
 ### Check our Upcoming Meetup Events:
 {% include chapter_events.html group=page.meetup-group %}
