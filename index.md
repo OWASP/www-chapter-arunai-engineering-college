@@ -8,8 +8,10 @@ meetup-group: OWASP Arunai Engineering College Chapter
 
 ---
 <img src="assets/images/owasparunai.png"/>
+
 ## Welcome
 Welcome to <b>OWASP Arunai Engineering  College </b> was founded in September,2021. We organise Meetups, Webinar and Conferences. All these event are open, anyone who is interest can participate. We promote on Secure Application Development and share knowleadge on Cyber Security. Join our mission to make Cyber Space a Better Place!
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
