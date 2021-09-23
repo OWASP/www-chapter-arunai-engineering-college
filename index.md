@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Arunai Engineering College - Student Chapter
-tags:arunai
+tags: arunai
 region: Asia
 meetup-group: OWASP Arunai Engineering College Chapter
 
