@@ -31,7 +31,7 @@ Mr.Karthikeyan Sivakumar IV Year CSE</br>
 Mr.Anbarasan Annamalai IV Year CSE</br>
 Finally Chief Guest congrats the Team Member of Cyber Security Club of Arunai Engineering College and assure that students can clarify their doubts in future to face the challenges in Cyber Attacks.
 </br>
-#owasp #cyber #malware #security #backup #club #arunai #TogetherWeCan #faculty #student
+#cyber #malware #security #backup #club #arunai #TogetherWeCan #faculty #student
 
 We schedule our meetings on the [OWASP-Arunai Engineering College-Student Chapter Meetup Group](https://www.meetup.com/owasp-arunai-engineering-college-chapter)
 ## Chief Guest 
