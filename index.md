@@ -36,10 +36,12 @@ Finally Chief Guest congrats the Team Member of Cyber Security Club of Arunai En
 #cyber #malware #security #backup #club #arunai #TogetherWeCan #faculty #student
 
 We schedule our meetings on the [OWASP-Arunai Engineering College-Student Chapter Meetup Group](https://www.meetup.com/owasp-arunai-engineering-college-chapter)
-## Chief Guest 
-<br>Mr.Vimal Mani,
+<b>Chief Guest </b>
+Mr.Vimal Mani,
 Head of Information Security ,
-Bank of Sharjah, United Arab Emirates.<br/> Mr.Akarakaviyarasan ,
+Bank of Sharjah, United Arab Emirates.
+
+Mr.Akarakaviyarasan ,
 Senior Project Manager,Citibank (ASPAC & EMEA) ,
 Bahrain
 
