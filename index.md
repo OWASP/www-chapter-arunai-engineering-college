@@ -25,10 +25,10 @@ In the Presence of Our Respected Vice-Chairman Er.E.V.Kumaran , Respected Regist
 Welcome address by Dr.M.Jothish Kumar, Head, Department of Computer Science and Engineering.
 Mr.Vimal Mani started his session with a brief talk on Cyber Space, Cyber Attack & Cyber Security. Sir also suggested Cyber Certificate Course for the students which help them to improve their professional platform. He also added a key point regarding malware & ransomware . Sir told that 70% of Malware attack will reach by email in the form of spam mail.
 Mr. Akarakaviyarasan started his session like how organization need secure by concentrating with following key points like Network Communication Security Tools, Monitor & improve organization security, Prevent access control attacks and Backup of data. 
-Students interact with our chief guest through chat by posting queries which is an interactive session.</br>
-<b>Student Chapter Coordinators</b></br>
-Mr.Karthikeyan Sivakumar IV Year CSE</br>
-Mr.Anbarasan Annamalai IV Year CSE</br>
+Students interact with our chief guest through chat by posting queries which is an interactive session.
+<br><b>Student Chapter Coordinators</b></br>
+Mr.Karthikeyan Sivakumar IV Year CSE
+Mr.Anbarasan Annamalai IV Year CSE
 Finally Chief Guest congrats the Team Member of Cyber Security Club of Arunai Engineering College and assure that students can clarify their doubts in future to face the challenges in Cyber Attacks.
 </br>
 #cyber #malware #security #backup #club #arunai #TogetherWeCan #faculty #student
