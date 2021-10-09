@@ -30,14 +30,14 @@ Students interact with our chief guest through chat by posting queries which is 
 <br>Mr.Karthikeyan Sivakumar IV Year CSE<br/>
 <br>Mr.Anbarasan Annamalai IV Year CSE<br/>
 Finally Chief Guest congrats the Team Member of Cyber Security Club of Arunai Engineering College and assure that students can clarify their doubts in future to face the challenges in Cyber Attacks.
-</br>
-#cyber #malware #security #backup #club #arunai #TogetherWeCan #faculty #student
+<br>
+#cyber #malware #security #backup #club #arunai #TogetherWeCan #faculty #student<br/>
 
 We schedule our meetings on the [OWASP-Arunai Engineering College-Student Chapter Meetup Group](https://www.meetup.com/owasp-arunai-engineering-college-chapter)
 ## Chief Guest 
-Mr.Vimal Mani,
+<br>Mr.Vimal Mani,
 Head of Information Security ,
-Bank of Sharjah, United Arab Emirates.</br> Mr.Akarakaviyarasan ,
+Bank of Sharjah, United Arab Emirates.<br/> Mr.Akarakaviyarasan ,
 Senior Project Manager,Citibank (ASPAC & EMEA) ,
 Bahrain
 
