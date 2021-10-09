@@ -37,8 +37,7 @@ We schedule our meetings on the [OWASP-Arunai Engineering College-Student Chapte
 ## Chief Guest 
 Mr.Vimal Mani,
 Head of Information Security ,
-Bank of Sharjah, United Arab Emirates.
-Mr.Akarakaviyarasan ,
+Bank of Sharjah, United Arab Emirates.</b> Mr.Akarakaviyarasan ,
 Senior Project Manager,Citibank (ASPAC & EMEA) ,
 Bahrain
 
