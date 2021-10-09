@@ -27,7 +27,7 @@ Mr.Vimal Mani started his session with a brief talk on Cyber Space, Cyber Attack
 Mr. Akarakaviyarasan started his session like how organization need secure by concentrating with following key points like Network Communication Security Tools, Monitor & improve organization security, Prevent access control attacks and Backup of data. 
 Students interact with our chief guest through chat by posting queries which is an interactive session.
 <br><b>Student Chapter Coordinators</b><br/>
-<br>Mr.Karthikeyan Sivakumar IV Year CSE<br/>
+Mr.Karthikeyan Sivakumar IV Year CSE
 <br>Mr.Anbarasan Annamalai IV Year CSE<br/>
 Finally Chief Guest congrats the Team Member of Cyber Security Club of Arunai Engineering College and assure that students can clarify their doubts in future to face the challenges in Cyber Attacks.
 <br>
